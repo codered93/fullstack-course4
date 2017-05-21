@@ -15,11 +15,12 @@ div{
 #box11,#box22,#box33{
 	background-color:#ccccff;
 	height: auto;
+
 	
 }
 #p1,#p2,#p3{
 	position: relative;
-	top: 25px;
+	top: 10px;
 }
 
 .row {
@@ -28,7 +29,7 @@ div{
 body{
 
 	position: relative;
-	top :40px;
+	top :40px;	
 }
 h2{
 
@@ -36,7 +37,9 @@ h2{
 	padding: 10px;
 
 }
-
+p{
+	padding: 20px;
+}
 h4{
 	float:right;
 	text-align: center;
